@@ -1,4 +1,7 @@
+{
 function()
 {
-System.out.println("Created new")
+public static void main("welcome to git")
+}
+System.out.println("THANK YOU")
 }

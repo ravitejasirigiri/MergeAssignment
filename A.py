@@ -1,4 +1,3 @@
-hello("EVERY ONE")
 {
-public static void main("welcome");
+hello("EVERYONE")
 }
